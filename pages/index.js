@@ -10,7 +10,9 @@ export default function Home() {
       </header>      
 
       <main style={{width: "1600px", height: "1109px"}}>
-        <img src='tiger-Siberian.jpg' alt="tiger" width="1600" height="1109"/>
+        <img src='/tiger-Siberian.jpg' alt="tiger" width="1600" height="1109"/>
+        <hr/>
+        <Image src='/tiger-Siberian.jpg'width="1600" height="1109" />
       </main>
     </div>
   )
